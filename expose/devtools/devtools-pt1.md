@@ -6,5 +6,5 @@
 6. ```Github.com```
 7. ```Tue, 12 Oct 2021 18:38:02 GMT```
 8. ```application/json; charset=utf-8```
-9. ```fetchData``` in ```expose.js```
+9. ```fetchData()``` in ```expose.js```
 10. 

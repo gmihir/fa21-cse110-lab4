@@ -37,7 +37,7 @@
 
 14. A. ```true``` ('2' is converted to a number)
 
-    B. ```false``` ('2' and '12' are both converted to numbers)
+    B. ```false``` (We are comparing two strings, and '2' is greater than '12' because '12' is less alphabetically)
 
     C. ```true``` ('2' is converted to a number)
 
